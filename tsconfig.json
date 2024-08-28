@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "types": ["./node_modules/telegram-webapps"]
+  },
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
